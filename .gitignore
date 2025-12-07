@@ -1,0 +1,5 @@
+config.php
+vendor/
+hinnasto.csv
+temp.xlsx
+.DS_Store
