@@ -1,3 +1,4 @@
+# ignored files and folders
 config.php
 vendor/
 hinnasto.csv
