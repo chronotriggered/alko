@@ -1,0 +1,7 @@
+{
+    "require": {
+        "openspout/openspout": "^4.32",
+        "shuchkin/simplexlsx": "^1.1.4"
+    }
+}
+
